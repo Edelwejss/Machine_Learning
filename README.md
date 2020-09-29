@@ -1,5 +1,6 @@
 # Machine Learning - Coursera.org
 
+![GitHub top language](https://img.shields.io/github/languages/top/svoit/Machine_Learning)
 [![HitCount](http://hits.dwyl.com/svoit/Machine_Learning.svg)](http://hits.dwyl.com/svoit/Machine_Learning)
 
 - [Linear Regression](#linear-regression)
