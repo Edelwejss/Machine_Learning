@@ -2,8 +2,8 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/svoit/Machine_Learning)
 [![HitCount](http://hits.dwyl.com/svoit/Machine_Learning.svg)](http://hits.dwyl.com/svoit/Machine_Learning)
-![GitHub watchers](https://img.shields.io/github/stars/svoit/Machine_Learning?style=social)
 ![GitHub watchers](https://img.shields.io/github/forks/svoit/Machine_Learning?label=Fork)
+![GitHub watchers](https://img.shields.io/github/stars/svoit/Machine_Learning?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/svoit?label=Follow&style=social)
 
 - [Linear Regression](#linear-regression)
