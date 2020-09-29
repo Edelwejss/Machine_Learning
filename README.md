@@ -1,6 +1,6 @@
+# Machine Learning - Coursera.org
 
-# <p align="center">Machine Learning - Coursera.org</p>
-
+[![HitCount](http://hits.dwyl.com/svoit/Machine_Learning.svg)](http://hits.dwyl.com/svoit/Machine_Learning)
 
 - [Linear Regression](#linear-regression)
 - [Logistic Regression](#logistic-regression)
